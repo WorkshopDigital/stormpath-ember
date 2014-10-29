@@ -1,0 +1,21 @@
+{
+  "name": "stormpath-ember",
+  "version": "0.1.0",
+  "description": "Stormpath middleware for ExpressJs to suppoer Ember-Simple-Auth applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ember",
+    "ember-simple-auth",
+    "stormpath",
+    "express"
+  ],
+  "author": "Matthew Rosenberg Dynamic Web Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.1",
+    "stormpath": "^0.6.0"
+  }
+}
